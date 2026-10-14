@@ -2,7 +2,7 @@ I inspected the repository (found a single top-level file named "Plugin" that do
 #replication-repository/Master's
 This repository contains the supporting materials, executables, and configuration files related to the master's research conducted by Karlinha VM. The purpose of this repository is to ensure methodological transparency and enable the replication of the computational procedures used in the study.
 
-##Repository Structure
+## Repository Structure
 
 - /plugin: Contains the executable file (.exe) developed by the lab to automate and standardize image preprocessing.
 
