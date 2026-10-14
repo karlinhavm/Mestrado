@@ -1,6 +1,6 @@
 I inspected the repository (found a single top-level file named "Plugin" that documents a Windows GIMP/BIMP executable and the preprocessing steps used in master´s research). Below is a ready-to-add README.md for this repository that summarizes purpose, contents, usage and safety/replication notes.
 #replication-repository/Master's
-This repository contains the supporting materials, executables, and configuration files related to the master's research conducted by Karlinha VM. The purpose of this repository is to ensure methodological transparency and enable the replication of the computational procedures used in the study.
+This repository contains the supporting materials, executables, and configuration files related to the master's research conducted by Karla VM. The purpose of this repository is to ensure methodological transparency and enable the replication of the computational procedures used in the study.
 
 ## Repository Structure
 
