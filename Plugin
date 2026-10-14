@@ -4,7 +4,6 @@ Este repositório contém os materiais de suporte, executáveis e arquivos de co
 ##  Estrutura do Repositório
 
 - /plugin: Contém o arquivo executável (.exe) desenvolvido pelo laboratório para a automação e padronização do pré-processamento de imagens.
-- /dados-exemplo: Conjunto de imagens de teste disponibilizado para validação e execução rápida da ferramenta.
 
 ## Sobre a Ferramenta
 
