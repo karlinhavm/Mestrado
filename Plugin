@@ -1,0 +1,23 @@
+#repositório de replicação/Mestrado
+Este repositório contém os materiais de suporte, executáveis e arquivos de configuração referentes à pesquisa de mestrado desenvolvida por Karlinha VM. O objetivo deste espaço é garantir a transparência metodológica e permitir a replicação dos procedimentos computacionais adotados no estudo.
+
+##  Estrutura do Repositório
+
+- /plugin: Contém o arquivo executável (.exe) desenvolvido pelo laboratório para a automação e padronização do pré-processamento de imagens.
+- /dados-exemplo: Conjunto de imagens de teste disponibilizado para validação e execução rápida da ferramenta.
+
+## Sobre a Ferramenta
+
+O utilitário de processamento em lote presente neste repositório foi desenvolvido internamente pelo laboratório para automatizar tarefas cruciais da metodologia, realizando de forma padronizada as seguintes operações nas imagens:
+1. Inversão
+2. Espelhamento
+3. Conversão para escala de cinza
+
+## Como Utilizar e Replicar
+
+1. Acesse a pasta */plugin* e faça o download do arquivo executável disponibilizado.
+2. Execute o utilitário em sua máquina seguindo os parâmetros metodológicos descritos na dissertação para reproduzir o mesmo pipeline de tratamento de imagens.
+   
+[gimp-plugin-bimp_win32.zip](https://github.com/user-attachments/files/33453941/gimp-plugin-bimp_win32.zip)
+
+
